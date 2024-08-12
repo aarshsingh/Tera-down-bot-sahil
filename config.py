@@ -3,7 +3,7 @@ import os
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://aarshhub:6L1PAPikOnAIHIRA@cluster0.6shiu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DATABASE_NAME", "Dump terabox")
+DB_NAME = os.environ.get("DATABASE_NAME", "Dumpterabox")
 
 #Shortner (token system) 
 # check my discription to help by using my refer link of shareus.io
